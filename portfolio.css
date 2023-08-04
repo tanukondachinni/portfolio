@@ -1,0 +1,48 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+  header {
+    background-color:brown;
+    color: #fff;
+    padding: 20px;
+    background-image: url('sc.jpg');
+  }
+  
+  
+  
+   ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+   ul li a {
+    color:burlywood;
+    text-decoration: none;
+  }
+  
+  
+  
+  footer {
+    background-color: green;
+    color: pink;
+    padding: 10px;
+    
+  }
+  
+  #home img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+  }
+  
+  #portfolio{
+    background-color: lightskyblue;
+    padding: 10px;
+  }
+  li{
+    display: inline;
+    margin-right:10px ;
+  }
